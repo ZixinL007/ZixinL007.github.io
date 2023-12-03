@@ -46,6 +46,6 @@ You can find my detailed academic and research background in my [Curriculum Vita
 📧 **Contact:**
 - Email: [zixin.li0416@gmail.com](mailto:zixin.li0416@gmail.com)
 - GitHub: [ZixinL007](https://github.com/ZixinL007)
-- Wechat: [Wechat](../images/wechat.jpg)
+- Wechat: [Wechat](../images/wechat.png)
 
 Feel free to explore my projects and connect with me! I'm passionate about advancing medical imaging and using statistics to contribute to mental health research. Let's collaborate to make a positive impact on healthcare! 😊
