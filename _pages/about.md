@@ -10,14 +10,14 @@ redirect_from:
 
 ### Hi there! 👋
 
-I'm Zixin Li, a fourth-year undergraduate student pursuing a BSc in Mathematics and Applied Mathematics at [Xidian University](https://www.xidian.edu.cn/), Xi’an, China.
+I'm Zixin Li, a fourth-year undergraduate student pursuing a BSc in Mathematics and Applied Mathematics at [Xidian University](https://en.xidian.edu.cn/), Xi’an, China.
 
 🎓 **Education:**
 - **Xidian University**
   - BSc in Mathematics and Applied Mathematics (Expected Graduation: Jun. 2024)
   - GPA: 3.9/4.0, rank: 2/102
   - Relevant Courses: Mathematical Analysis, Advanced Algebra, Data Structure, etc.
-  - Awards: CSC Undergraduate Research Award, National Scholarship, Outstanding Student, etc.
+  - Awards: CSC ([China Scholarship Council](https://www.chinesescholarshipcouncil.com/)) Undergraduate Research Award (Jan. 2023), National Scholarship (Dec. 2021)
 
 - **University of California, Berkeley**
   - Visiting Student (Aug. 2022 – Dec. 2022)
@@ -30,12 +30,11 @@ I'm Zixin Li, a fourth-year undergraduate student pursuing a BSc in Mathematics 
 - Contributing to precise diagnoses, disease monitoring, and effective treatment plans.
 - Advancing the integration of fMRI with Electronic Health Records in clinical settings.
 - Combining statistics with health science to support those affected by mental illnesses, particularly depression.
-- Future goal: Pursuing a Ph.D. in biostatistics to expand early diagnosis for both mental and physical diseases.
 
 👨‍💻 **Academic Experience:**
 - **Machine learning and statistical methods for modeling neuroscience data**
   - CSC funded Research Intern at the University of Alberta
-  - Advisor: Prof. Ivor Cribben
+  - Advisor: [Prof. Ivor Cribben](https://apps.ualberta.ca/directory/person/cribben)
 
 - **Discovery of Genes Associated with Survival Time in a Common Cancer**
   - Research Project at Berkeley, USA
