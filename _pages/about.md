@@ -17,7 +17,7 @@ I'm Zixin Li, a fourth-year undergraduate student pursuing a BSc in Mathematics 
   - BSc in Mathematics and Applied Mathematics (Expected Graduation: Jun. 2024)
   - GPA: 3.9/4.0, rank: 2/102
   - Relevant Courses: Mathematical Analysis, Advanced Algebra, Data Structure, etc.
-  - Awards: CSC ([China Scholarship Council](https://www.chinesescholarshipcouncil.com/)) Undergraduate Research Award (Jan. 2023), National Scholarship (Dec. 2021)
+  - Awards: CSC ([China Scholarship Council](https://en.wikipedia.org/wiki/China_Scholarship_Council)) Undergraduate Research Award (Jan. 2023), National Scholarship (Dec. 2021)
 
 - **University of California, Berkeley**
   - Visiting Student (Aug. 2022 – Dec. 2022)
