@@ -33,7 +33,7 @@ I'm Zixin Li, a fourth-year undergraduate student pursuing a BSc in Mathematics 
 - Future goal: Pursuing a Ph.D. in biostatistics to expand early diagnosis for both mental and physical diseases.
 
 👨‍💻 **Academic Experience:**
-- **Machine learning and statistical methods for modelling neuroscience data**
+- **Machine learning and statistical methods for modeling neuroscience data**
   - CSC funded Research Intern at the University of Alberta
   - Advisor: Prof. Ivor Cribben
 
@@ -46,5 +46,6 @@ You can find my detailed academic and research background in my [Curriculum Vita
 📧 **Contact:**
 - Email: [zixin.li0416@gmail.com](mailto:zixin.li0416@gmail.com)
 - GitHub: [ZixinL007](https://github.com/ZixinL007)
+- Wechat: [Wechat](../images/wechat.jpg)
 
 Feel free to explore my projects and connect with me! I'm passionate about advancing medical imaging and using statistics to contribute to mental health research. Let's collaborate to make a positive impact on healthcare! 😊
